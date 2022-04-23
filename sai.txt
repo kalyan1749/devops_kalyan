@@ -4,3 +4,5 @@ Azure
 Gcp
 Oracle
 SAP
+c++
+java
